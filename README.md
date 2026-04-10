@@ -1,7 +1,7 @@
 Uncap
 =====
 
-Map Caps Lock key to Escape key, or any to any key, on Windows systems.
+Map Caps Lock key to Escape key, or any to any key, on Windows systems suresh.
 
 [![Download][Download SVG]][Download URL]
 [![MIT License][License Badge]][L]
