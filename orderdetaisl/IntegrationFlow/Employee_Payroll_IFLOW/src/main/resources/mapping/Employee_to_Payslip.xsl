@@ -5,7 +5,7 @@
     <!-- Calculate Gross Salary -->
     <xsl:variable name="grossSalary" select="sum(root/Employee/salaryComponents/amount)"/>
 
-    <!-- Get Basic for PF calculation -->
+    <!-- Get Basic for PF calculationtest -->
     <xsl:variable name="basic" select="root/Employee/salaryComponents[component='Basic']/amount"/>
 
     <!-- PF = 12% of Basic -->
